@@ -9,7 +9,7 @@ We are composed of:
 - Marianella Polo Peña
 - Andres Serrato Camero
 - Valentina Rodriguez Tejedor
-- Juan Francisco Teheran Roman
+- Juan Francisco Teran Roman
 
 We are students from **Universidad Escuela Colombiana de Ingeniería Julio Garavito**.
 
