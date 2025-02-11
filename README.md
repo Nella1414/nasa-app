@@ -43,3 +43,8 @@ The project utilizes the following libraries and technologies:
 
 If you would like to contribute to this project, feel free to clone the repository, install the dependencies, and suggest improvements or add new features. All contributions are welcome! 🎉
 
+## License
+
+[Nasa App](https://github.com/Nella1414/nasa-app) by Efecto Mariposa, Tomas Felipe Panqueva Manrique, Marianella Polo Peña, Valentina Rodriguez Tejedor, Juan Francisco Teran Roman, Juan Andres Rodriguez Peñuela, and Andres Serrato Camero is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)
+
+![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1) ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1) ![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)
